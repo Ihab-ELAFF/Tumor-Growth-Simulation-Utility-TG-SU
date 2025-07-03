@@ -1,4 +1,4 @@
-# Tumor Growth Simulation Utility (TG-SU) for DTI MRI CT...,etc.
+# Tumor Growth Simulation Utility (TG-SU)
 This utility is used for simulating the growth of any Tumor specially the Brain Tumor. 
 
 ## About TG-SU
