@@ -2,7 +2,7 @@
 This utility is used for simulating the growth of any Tumor specially the Brain Tumor. 
 
 ## About TG-SU
-MISU (Medical Image Segmentation Utility) is developed using [SharpDevelop](https://github.com/icsharpcode/SharpDevelop) under the GNU General Public License.  
+TG-SU (Tumor Growth Simulation Utility) is developed using [SharpDevelop](https://github.com/icsharpcode/SharpDevelop) under the GNU General Public License.  
 It uses [OpenTK](https://github.com/opentk/opentk) for graphics rendering and visualization.
 
 ## License
